@@ -1,1 +1,2 @@
 # MinerMonkey
+  Have Fun!
